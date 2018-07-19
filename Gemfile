@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem "rcodetools" # Uhhh...
 
 gem "rubocop" # Linter
+gem "rubocop-rspec"
 
 gem "ripper-tags" # Tags - going away?
 
